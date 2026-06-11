@@ -1,0 +1,5 @@
+homepage: "https://median.co"
+documentation: "https://docs.median.co/docs/google-tag-manager"
+versions:
+  - sha: REPLACE_WITH_RELEASE_COMMIT_SHA
+    changeNotes: Initial release.
