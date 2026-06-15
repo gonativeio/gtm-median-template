@@ -35,12 +35,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "userAgentValue",
     "displayName": "User Agent Variable",
     "simpleValueType": true,
-    "help": "Enter a GTM variable reference that resolves to the user agent string, e.g. {{User Agent}}. This value is logged for debugging and included as device_info in the median_injected dataLayer event.",
-    "valueValidators": [
-      {
-        "type": "NON_EMPTY"
-      }
-    ]
+    "help": "Optional. Enter a GTM variable reference that resolves to the user agent string, e.g. {{User Agent}}. When provided, this value is logged for debugging and included as device_info in the median_injected dataLayer event."
   },
   {
     "type": "TEXT",
