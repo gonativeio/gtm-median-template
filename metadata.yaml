@@ -1,5 +1,5 @@
 homepage: "https://median.co"
 documentation: "https://docs.median.co/docs/google-tag-manager"
 versions:
-  - sha: 363bc7743351663f6381eadd36a5bae2be61e0e4
-    changeNotes: Initial release.
+  - sha: 9bdb5ba6ed20007a9528f6472b246aadc7ae5eb5
+    changeNotes: Resize brand icon to 96x96 for GTM gallery requirements.
